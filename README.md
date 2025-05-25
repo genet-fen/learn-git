@@ -1,1 +1,1 @@
-I am learning git
+I got knowledge how to push from local to remote.
